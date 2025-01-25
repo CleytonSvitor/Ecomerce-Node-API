@@ -1,0 +1,16 @@
+{
+  "name": "ecomerce-api",
+  "version": "1.0.0",
+  "description": "Treinamento em Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cleyton Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "sucrase": "^3.35.0",
+    "typescript": "^5.7.3"
+  }
+}
