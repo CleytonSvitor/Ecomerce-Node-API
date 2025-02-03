@@ -1,0 +1,8 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "javascript": "node",
+        //"typescript": "npm run dev:console",
+        "typescript": "npx sucrase-node",
+    }
+}
